@@ -1,0 +1,78 @@
+**Important: Home (Nav) should be orange=Active **
+**Foodprint logo in body should have float element**
+
+
+Background Colour: #FEFEFE (white)
+Section Colour: #F8F2F2 (pink)
+Button Colour: #FC815A (orange)
+Button2 Color: #4C9DD8 (blue)
+
+Font Colour: #484443 (grey)
+Font Colour2: #000000 (black)
+
+<--Google Fonts--> 
+
+Roboto: <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&family=Ubuntu:wght@300&display=swap" rel="stylesheet">
+
+CSS: 
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+
+Roboto (Regular): <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu:wght@300&display=swap" rel="stylesheet">
+
+CSS:
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+
+Roboto (Light): <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap" rel="stylesheet">
+
+CSS:
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+
+
+<--App Feature Icons-->
+
+Barcode: https://fontawesome.com/icons/barcode-read?f=sharp&s=solid (<i class="fa-sharp fa-solid fa-barcode-read"></i>)
+Bell: https://fontawesome.com/icons/bell?f=classic&s=regular (<i class="fa-regular fa-bell"></i>)
+Share: https://fontawesome.com/icons/share-nodes?f=classic&s=regular (<i class="fa-regular fa-share-nodes"></i>)
+Face: https://fontawesome.com/icons/face-smile?f=classic&s=regular (<i class="fa-regular fa-face-smile"></i>)
+
+<--Video Icons-->
+
+Download: https://fontawesome.com/icons/arrow-down-to-line?f=classic&s=solid (<i class="fa-solid fa-arrow-down-to-line"></i>)
+Share: https://fontawesome.com/icons/share?f=classic&s=solid (<i class="fa-solid fa-share"></i>)
+
+Video Link (Food waste: How much food do supermarkets throw away? (CBC Marketplace)): https://www.youtube.com/watch?v=QLqkV8cP4xs
+
+Testimonial User 1 (Man): https://unsplash.com/photos/6GgCyNnF6Zs
+Testimonial User 2 (Woman): https://unsplash.com/photos/_H6wpor9mjs
+Testimonial User 3 (Old woman): https://unsplash.com/photos/VMGAbeeJTKo
+
+<--Contact Icons-->
+
+Location: https://fontawesome.com/icons/location-dot?f=sharp&s=regular (<i class="fa-sharp fa-regular fa-location-dot"></i>)
+Email: https://fontawesome.com/icons/envelope?f=classic&s=regular (<i class="fa-regular fa-envelope"></i>)
+Phone: https://fontawesome.com/icons/phone?f=classic&s=regular (<i class="fa-regular fa-phone"></i>)
+Google: https://fontawesome.com/icons/google?f=brands&s=solid (<i class="fa-brands fa-google"></i>)
+
+<--Map-->
+
+Google Map Location (Humber College): https://www.google.com/maps/place/Humber+College/@43.7501312,-80.0842359,10z/data=!3m1!5s0x882b3bada90c35b5:0x286a1fa9174ba649!4m10!1m2!2m1!1shumber+college!3m6!1s0x882b3a5391c12321:0x747f0c3b5cdecaa0!8m2!3d43.7288232!4d-79.6065799!15sCg5odW1iZXIgY29sbGVnZSIDiAEBkgEHY29sbGVnZeABAA!16zL20vMDMxcnMz 
+
+
+<--Footer Icons-->
+
+Facebook: https://fontawesome.com/icons/facebook-f?f=brands&s=solid (<i class="fa-brands fa-facebook-f"></i>)
+Instagram: https://fontawesome.com/icons/instagram?f=brands&s=solid (<i class="fa-brands fa-instagram"></i>)
+Tiktok: https://fontawesome.com/icons/tiktok?f=brands&s=solid (<i class="fa-brands fa-tiktok"></i>)
+Twitter: https://fontawesome.com/icons/twitter?f=brands&s=solid (<i class="fa-brands fa-twitter"></i>)
+
+
+
